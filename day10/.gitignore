@@ -1,0 +1,6 @@
+ex00/*
+!ex00/Makefile
+ex*/*_dev.c
+a.out
+.vscode
+.DS_Store

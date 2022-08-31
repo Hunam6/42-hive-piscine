@@ -1,0 +1,15 @@
+ex02/testDay00
+
+ex03/test*
+
+ex05/.*
+ex05/file
+ex05/link
+.DS_Store
+DS_Store
+
+ex08/a
+ex08/sw.diff
+ex08/test.diff
+
+ex09/test files
